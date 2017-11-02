@@ -5,79 +5,59 @@
       "name": "InterestCollection",
       "contents": [
         {
-          "name": "Software Engineering",
+          "name": "Chinese Cuisine",
           "description": "Techniques for development of high quality systems"
         },
         {
-          "name": "Algorithms",
+          "name": "Japanese Cuisine",
           "description": "A set of rules to be followed in computation"
         },
         {
-          "name": "Mobile Networks",
+          "name": "Indian Cuisine",
           "description": "Networks created using mobile devices."
         },
         {
-          "name": "Sailing",
+          "name": "Fast Food",
           "description": ""
         },
         {
-          "name": "Mars",
+          "name": "Accepts Meal Card",
           "description": ""
         },
         {
-          "name": "Imu Cooking",
+          "name": "Beverage-Oriented",
           "description": "Hawaiian practice of cooking in a pit."
         },
         {
-          "name": "Scuba",
+          "name": "Coffee",
           "description": ""
         },
         {
-          "name": "Photography",
+          "name": "Not Dunkin Donuts",
           "description": ""
         },
         {
-          "name": "Wind surfing",
+          "name": "Dunkin Donuts",
           "description": ""
         },
         {
-          "name": "Psychology",
+          "name": "Vegan",
           "description": ""
         },
         {
-          "name": "Motorcycling",
+          "name": "Food Truck",
           "description": ""
         },
         {
-          "name": "Accreditation",
+          "name": "Healthy but not Vegan",
           "description": ""
         },
         {
-          "name": "Paddling",
+          "name": "Gluten Free Alternatives",
           "description": ""
         },
         {
-          "name": "Crossfit",
-          "description": ""
-        },
-        {
-          "name": "Cybersecurity",
-          "description": ""
-        },
-        {
-          "name": "Surfing",
-          "description": ""
-        },
-        {
-          "name": "Computer Vision",
-          "description": ""
-        },
-        {
-          "name": "Martial Arts",
-          "description": ""
-        },
-        {
-          "name": "Evolutionary Computation",
+          "name": "Protein... lots of Protein",
           "description": ""
         }
       ]
@@ -86,63 +66,28 @@
       "name": "ProfileCollection",
       "contents": [
         {
-          "firstName": "Lee",
+          "firstName": "Panda Express",
           "lastName": "Altenberg",
           "username": "altenber",
-          "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii.",
+          "bio": "The fast food of Chinese Cuisine",
           "interests": [
-            "Evolutionary Computation"
+            "Chinese Cuisine",
+            "Not Dunkin Donuts"
           ],
-          "title": "Associate Professor, Information and Computer Sciences",
-          "picture": "/images/altenberg.jpg"
+          "title": "Paradise Palms",
+          "picture": "/images/panda-express.jpg"
         },
         {
-          "firstName": "Kyungim",
+          "firstName": "Dunken Donuts",
           "lastName": "Baek",
           "username": "baek",
-          "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii.",
+          "bio": "Dunkin Donuts... enough said",
           "interests": [
-            "Computer Vision"
+            "Dunkin Donuts",
+            "Coffee"
           ],
-          "title": "Associate Professor, Information and Computer Sciences",
-          "picture": "/images/baek.jpg"
-        },
-        {
-          "firstName": "Edo",
-          "lastName": "Biagioni",
-          "username": "esb",
-          "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii.",
-          "interests": [
-            "Mobile Networks",
-            "Sailing"
-          ],
-          "title": "Associate Professor, Information and Computer Sciences",
-          "picture": "/images/biagioni.jpg"
-        },
-        {
-          "firstName": "Kim",
-          "lastName": "Binsted",
-          "username": "binsted",
-          "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii.",
-          "interests": [
-            "Mars",
-            "Imu Cooking"
-          ],
-          "title": "Associate Professor, Information and Computer Sciences",
-          "picture": "/images/binsted.jpg"
-        },
-        {
-          "firstName": "Henri",
-          "lastName": "Casanova",
-          "username": "henric",
-          "github": "henricasanova",
-          "bio": "I am a Professor of Information and Computer Sciences at the University of Hawaii.",
-          "interests": [
-            "Surfing",
-            "Photography"
-          ],
-          "title": "Professor, Information and Computer Sciences",
-          "picture": "/images/casanova.jpg"
+          "title": "Paradise Palms",
+          "picture": "/images/dunkin-donuts.png"
         }
       ]
     }

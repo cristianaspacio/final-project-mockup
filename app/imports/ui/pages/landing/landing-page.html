@@ -1,24 +1,29 @@
 <template name="Landing_Page">
 
-  <div class="landing-section-1">
+  <div style="margin-bottom: 0px" class="landing-section-1">
     <div class="ui grid">
 
-      <div class="row">
-        <div class="ui right aligned sixteen wide column">
-          {{> Cas_Login }}
-        </div>
+      <div class="row"></div>
+      <div class="row"></div>
+      <div class="row"></div>
+      <div class="row"></div>
 
+      <div class="row">
+        <div class="ui container center aligned">
+          <h1 class="landing-section-1-welcome">Welcome to Manoa Munchies</h1>
+          <h3 class="landing-section-1-tagline">A place where you can find the best food in University of Hawaii at Manoa</h3>
+        </div>
       </div>
+
       <div class="row">
         <div class="ui center aligned sixteen wide column">
-          <h1 class="landing-section-1-welcome">Welcome to BowFolios</h1>
-          <h3 class="landing-section-1-tagline">Professional portfolios and networking for the University of Hawaii community</h3>
+          {{> Cas_Login }}
         </div>
       </div>
     </div>
   </div>
 
-  <div class="landing-section-2">
+ <!-- <div class="landing-section-2">
     <div class="ui grid">
       <div class="ui eight wide column">
         <img class="ui centered medium image" src="/images/profile.png">
@@ -58,6 +63,6 @@
         {{> Cas_Login size="large"}}
       </div>
     </div>
-  </div>
+  </div>-->
 
 </template>
